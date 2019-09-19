@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/codingarmadillo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://coding-armadillo.github.io
+  * I am codingarmadillo (https://keybase.io/codingarmadillo) on keybase.
+  * I have a public key ASDp-gt7rDjJDtppFZOno2b4K0TIqZwzfNF83XDVG4JYCAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e9fa0b7bac38c90eda691593a7a366f82b44c8a99c337cd17cdd70d51b8258080a",
+      "host": "keybase.io",
+      "kid": "0120e9fa0b7bac38c90eda691593a7a366f82b44c8a99c337cd17cdd70d51b8258080a",
+      "uid": "867d1facbb334e2f1741d9d3b5f88119",
+      "username": "codingarmadillo"
+    },
+    "merkle_root": {
+      "ctime": 1568861306,
+      "hash": "ceea0c13a5efd11439bf883fe32931f503cfa82c2ec6b20298507c6959b8cc30b2937f421c2e51c1622e6cf627821d65d6272653f9f4c5e0f8bb217076b9148b",
+      "hash_meta": "4fd7543c6a488528432fbf0f4f0b1f3c863155d1a9bc233125cf6eb057bec32c",
+      "seqno": 7587612
+    },
+    "service": {
+      "entropy": "oODiWBe/H8dByUrAxucQ3wWd",
+      "hostname": "coding-armadillo.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568861313,
+  "expire_in": 504576000,
+  "prev": "965857322077cd4afba4f3af2f0968b6de2bb20f15b607d998c7b296cd344aaf",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6foLe6w4yQ7aaRWTp6Nm+CtEyKmcM3zRfN1w1RuCWAgKp3BheWxvYWTESpcCCcQgllhXMiB3zUr7pPOvLwlott4rsg8VtgfZmMeyls00Sq/EIFrURP//tKCboFpUO8+QETs7goYIT4pmQd1pwdg4JWs2AgHCo3NpZ8RAehJi2Om0mOJG/YGSt2KSaj93EIv5EStRaHEw8vabAPA3xnAidq0KVMv71J+o3DHhHiLvriDFrD6qaekeuJ9iD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFJCUsHYvveHbiQtdEKI62Hd1b51pzGQ1llWRoF5fplRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/codingarmadillo
+
+==================================================================
