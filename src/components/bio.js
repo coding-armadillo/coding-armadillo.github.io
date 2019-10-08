@@ -5,18 +5,18 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
-import Image from "gatsby-image"
+import { graphql, useStaticQuery } from "gatsby"
 
+import Image from "gatsby-image"
+import React from "react"
 import { rhythm } from "../utils/typography"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/icon.png/" }) {
         childImageSharp {
-          fixed(width: 50, height: 50) {
+          fixed(width: 100, height: 100) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -57,7 +57,7 @@ const Bio = () => {
         Written by <strong>{author}</strong> who lives in The Lovely Planet
         <br />
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          You should follow her on Twitter
         </a>
       </p>
     </div>
