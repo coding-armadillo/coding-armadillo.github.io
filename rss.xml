@@ -1,1 +1,158 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Coding Armadillo's Blog]]></title><description><![CDATA[A blog demonstrating what Coding Armadillo can do.]]></description><link>https://coding-armadillo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 08 Oct 2019 04:46:25 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[Hello World! How exciting!]]></description><link>https://coding-armadillo.github.io/hello-world/</link><guid isPermaLink="false">https://coding-armadillo.github.io/hello-world/</guid><pubDate>Wed, 18 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello World! How exciting!&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Coding Armadillo's Blog]]></title><description><![CDATA[A blog demonstrating what Coding Armadillo can do.]]></description><link>https://coding-armadillo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 10 Oct 2019 03:50:19 GMT</lastBuildDate><item><title><![CDATA[I Have A Profile Picture!]]></title><description><![CDATA[After saying “Hello World” I struggled to make myself a pretty profile picture.
+Being no designer I tried to use an online tool to visualize…]]></description><link>https://coding-armadillo.github.io/i-have-a-profile-picture/</link><guid isPermaLink="false">https://coding-armadillo.github.io/i-have-a-profile-picture/</guid><pubDate>Wed, 09 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After saying “Hello World” I struggled to make myself a pretty profile picture.
+Being no designer I tried to use an &lt;a href=&quot;https://www.freelogodesign.org/&quot;&gt;online tool&lt;/a&gt; to visualize my idea.
+And it came out like the following. :(&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 214px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bb8956a1d35f9d1c5a413f948d0fce6a/3de11/Coding-Armadillo-concept.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.00934579439253%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAABv0lEQVQoz3VSS0sCURT2H/QbMhBcumynmC1zHVSrfoIPaBEIurBFCKJQ6IyPxUyLCFooGC4FHz2gEmNKMnMqx3mm42OcGTszujCtj3vh3nPud75zv3sNkwWoijZmy/FEVSf/w7BA1aY8VERK+ryT2fqUWiqV4vF4KpVKJBK5XE47oxedI+t7WWh18wdUeO0ruMKfbamSCMHd3R2TyWS1Wo1Go8/ng4iiKMvKE+HKxZ1vM0k7eWh4PnFQROHt/WPTsWGz2Twej9PpzGazmoYsz5F1WXX43T5epZH1XiE4JK/fm6+1JwJFEbPZbLFY7Ha7y+WiaXqpbd2k4XOWv9wXb065iz1Z7EB+LI0qlUo0GkVRFMMwt9u9QNZNGfeUr9tRFVNHgpaTulBOnbOaZVmKoiKRSLlc/nVnuABDd3ihy4vy/cOjwLMdmiZJUpIkQRAYhuE4rt1uN5vNarUKzrdarX6/PyPDuWQyieMYEo8dHQVDoRAoFIvFdDrt9/vhebxebywWC4fDCIIEAgGI5PP5GXkwGBAE8aKjVqtBhziOZzKZer0OUqIoQvZRB0RAv9FogPgfTzUFdAUlpsao/3+yH+4qMIXDUYkbAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;concept&quot;
+        title=&quot;concept&quot;
+        src=&quot;/static/bb8956a1d35f9d1c5a413f948d0fce6a/3de11/Coding-Armadillo-concept.png&quot;
+        srcset=&quot;/static/bb8956a1d35f9d1c5a413f948d0fce6a/cf440/Coding-Armadillo-concept.png 148w,
+/static/bb8956a1d35f9d1c5a413f948d0fce6a/3de11/Coding-Armadillo-concept.png 214w&quot;
+        sizes=&quot;(max-width: 214px) 100vw, 214px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Luckily I stumbled across &lt;a href=&quot;https://emcallahan.com/&quot;&gt;Emily&lt;/a&gt;’s &lt;a href=&quot;https://dribbble.com/emily-callahan&quot;&gt;dribbble&lt;/a&gt; profile and loved her illustrative version of armadillo at first sight.
+We got in touch and she agreed to make me a profile picture.
+We started with a sketch.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f9a8bdfa96a6bc7b37c23aec551893db/971c4/Coding-Armadillo-sketch1-emcallahan-wm.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMFBP/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAbXx+s0WQJ9gSB//xAAeEAABBAEFAAAAAAAAAAAAAAABAAIDEgQRISIyQf/aAAgBAQABBQIz6JhsF7xjByJEzdx6Uav/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIQERIxMkH/2gAIAQEABj8C6sze0XszynHCOD//xAAdEAEAAgICAwAAAAAAAAAAAAABACERMVGBEEFh/9oACAEBAAE/IS5HDEt06+eB0WW8A6JkbHUOyIaI7QuAes//2gAMAwEAAgADAAAAEAAAPP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACExYRBxkaH/2gAIAQEAAT8QhndQJhlB2g/D34uVRQV3MF2H4FG62YugaWFz7glN1ciyMIC3ecGgvsuf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;sketch1&quot;
+        title=&quot;sketch1&quot;
+        src=&quot;/static/f9a8bdfa96a6bc7b37c23aec551893db/c739e/Coding-Armadillo-sketch1-emcallahan-wm.jpg&quot;
+        srcset=&quot;/static/f9a8bdfa96a6bc7b37c23aec551893db/8ee9c/Coding-Armadillo-sketch1-emcallahan-wm.jpg 148w,
+/static/f9a8bdfa96a6bc7b37c23aec551893db/ebbe7/Coding-Armadillo-sketch1-emcallahan-wm.jpg 295w,
+/static/f9a8bdfa96a6bc7b37c23aec551893db/c739e/Coding-Armadillo-sketch1-emcallahan-wm.jpg 590w,
+/static/f9a8bdfa96a6bc7b37c23aec551893db/5413e/Coding-Armadillo-sketch1-emcallahan-wm.jpg 885w,
+/static/f9a8bdfa96a6bc7b37c23aec551893db/971c4/Coding-Armadillo-sketch1-emcallahan-wm.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We exchanged ideas and got a new sketch.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5f330e7bd6dffcc495de730de283d85b/971c4/Coding-Armadillo-sketch2-emcallahan-wm.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQCAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAH1+kFJWiHfIaB//8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAyETEP/aAAgBAQABBQItqeLjYB1aCtRDWJyWf//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABoQAAIDAQEAAAAAAAAAAAAAAAABEBExQSH/2gAIAQEABj8CdOfC3wxR0w//xAAdEAACAgIDAQAAAAAAAAAAAAABEQAhMUEQYYFx/9oACAEBAAE/Iax/zUJtk+8EV7VGhs4KNwiWIDPZhGTaDtez/9oADAMBAAIAAwAAABAAwAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAeEAEAAwABBQEAAAAAAAAAAAABABEhURAxQWGh0f/aAAgBAQABPxAXswXe5VpiUdFGBzouFVFW8C15+x2XXLsfW8iM29Qss/IEpXsqf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;sketch2&quot;
+        title=&quot;sketch2&quot;
+        src=&quot;/static/5f330e7bd6dffcc495de730de283d85b/c739e/Coding-Armadillo-sketch2-emcallahan-wm.jpg&quot;
+        srcset=&quot;/static/5f330e7bd6dffcc495de730de283d85b/8ee9c/Coding-Armadillo-sketch2-emcallahan-wm.jpg 148w,
+/static/5f330e7bd6dffcc495de730de283d85b/ebbe7/Coding-Armadillo-sketch2-emcallahan-wm.jpg 295w,
+/static/5f330e7bd6dffcc495de730de283d85b/c739e/Coding-Armadillo-sketch2-emcallahan-wm.jpg 590w,
+/static/5f330e7bd6dffcc495de730de283d85b/5413e/Coding-Armadillo-sketch2-emcallahan-wm.jpg 885w,
+/static/5f330e7bd6dffcc495de730de283d85b/971c4/Coding-Armadillo-sketch2-emcallahan-wm.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Then lovely colors were added!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d839eee572fff12648e1bc6ae6df3783/971c4/Coding-Armadillo-color-rough-emcallahan--wm.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAXAQEBAQEAAAAAAAAAAAAAAAADAAEC/9oADAMBAAIQAxAAAAG9l0HtrMUulWcJMV//xAAcEAACAgIDAAAAAAAAAAAAAAABAgADEBESFDL/2gAIAQEAAQUCJineFOm8jmxgpRY1IM69Yn//xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIQEf/aAAgBAwEBPwG1QJyOf//EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPwEdhP/EABwQAAIBBQEAAAAAAAAAAAAAAAABIRARMTJBQv/aAAgBAQAGPwKOVgbseTBLZqf/xAAeEAACAgICAwAAAAAAAAAAAAAAAREhMVEQgUFhcf/aAAgBAQABPyGl5+R2uGJSJzQ8arQkpUOyzU37I+nqRJRb6z//2gAMAwEAAgADAAAAEB8nvv/EABgRAAMBAQAAAAAAAAAAAAAAAAABETFB/9oACAEDAQE/EInpYzekP//EABcRAQEBAQAAAAAAAAAAAAAAAAEAERD/2gAIAQIBAT8QV5GWt//EABwQAQEAAwEAAwAAAAAAAAAAAAERACExgRBBcf/aAAgBAQABPxAWoQqNzebI8Px3xEJcdQ0EiX99wREfp2xTiOu4XRTYEPJhD0ouf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;color-rough&quot;
+        title=&quot;color-rough&quot;
+        src=&quot;/static/d839eee572fff12648e1bc6ae6df3783/c739e/Coding-Armadillo-color-rough-emcallahan--wm.jpg&quot;
+        srcset=&quot;/static/d839eee572fff12648e1bc6ae6df3783/8ee9c/Coding-Armadillo-color-rough-emcallahan--wm.jpg 148w,
+/static/d839eee572fff12648e1bc6ae6df3783/ebbe7/Coding-Armadillo-color-rough-emcallahan--wm.jpg 295w,
+/static/d839eee572fff12648e1bc6ae6df3783/c739e/Coding-Armadillo-color-rough-emcallahan--wm.jpg 590w,
+/static/d839eee572fff12648e1bc6ae6df3783/5413e/Coding-Armadillo-color-rough-emcallahan--wm.jpg 885w,
+/static/d839eee572fff12648e1bc6ae6df3783/971c4/Coding-Armadillo-color-rough-emcallahan--wm.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Finally I have an awesome profile picture!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/07d30e5dd989f45cbe1a4060779eae93/971c4/Coding-Armadillo-final-emcallahan-wm.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/2gAMAwEAAhADEAAAAdLNcWrGQw9WkwkhZ//EABsQAQACAgMAAAAAAAAAAAAAAAEAAgMTETFB/9oACAEBAAEFAvB5IWR6NloY6EvhF0Yyf//EABkRAAEFAAAAAAAAAAAAAAAAAAIAARAREv/aAAgBAwEBPwEhbKqf/8QAFxEBAQEBAAAAAAAAAAAAAAAAARACEf/aAAgBAgEBPwE09hP/xAAdEAABAgcAAAAAAAAAAAAAAAAAATICEBEhQXGR/9oACAEBAAY/ArT2KtDA0dF0af/EABwQAQADAAIDAAAAAAAAAAAAAAEAESEQMUFRcf/aAAgBAQABPyFRfkSg4rZpidQMLsJZoQrYL9w9dN9dIZNfWf/aAAwDAQACAAMAAAAQjOe9/8QAGREBAAIDAAAAAAAAAAAAAAAAAQAREDFB/9oACAEDAQE/EBU7LxV3j//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEBH/2gAIAQIBAT8QZkBdb//EACAQAQACAQIHAAAAAAAAAAAAAAEAESExURBBcZGh0eH/2gAIAQEAAT8QUEV27S5NDm64IAKCGaslsBfXaVgMdLfsxFXNl8xlvLepUC7lFn//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;final&quot;
+        title=&quot;final&quot;
+        src=&quot;/static/07d30e5dd989f45cbe1a4060779eae93/c739e/Coding-Armadillo-final-emcallahan-wm.jpg&quot;
+        srcset=&quot;/static/07d30e5dd989f45cbe1a4060779eae93/8ee9c/Coding-Armadillo-final-emcallahan-wm.jpg 148w,
+/static/07d30e5dd989f45cbe1a4060779eae93/ebbe7/Coding-Armadillo-final-emcallahan-wm.jpg 295w,
+/static/07d30e5dd989f45cbe1a4060779eae93/c739e/Coding-Armadillo-final-emcallahan-wm.jpg 590w,
+/static/07d30e5dd989f45cbe1a4060779eae93/5413e/Coding-Armadillo-final-emcallahan-wm.jpg 885w,
+/static/07d30e5dd989f45cbe1a4060779eae93/971c4/Coding-Armadillo-final-emcallahan-wm.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;If you need some artwork done, please &lt;a href=&quot;https://emcallahan.com/contact&quot;&gt;contact&lt;/a&gt; Emily. She’s amazing!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[Hello World! How exciting!]]></description><link>https://coding-armadillo.github.io/hello-world/</link><guid isPermaLink="false">https://coding-armadillo.github.io/hello-world/</guid><pubDate>Wed, 18 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello World! How exciting!&lt;/p&gt;</content:encoded></item></channel></rss>
