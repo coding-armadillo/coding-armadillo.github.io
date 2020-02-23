@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Coding Armadillo's Blog]]></title><description><![CDATA[A blog demonstrating what Coding Armadillo can do.]]></description><link>https://coding-armadillo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Jan 2020 05:54:05 GMT</lastBuildDate><item><title><![CDATA[I Have A Profile Picture!]]></title><description><![CDATA[After saying “Hello World” I struggled to make myself a pretty profile picture.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Coding Armadillo's Blog]]></title><description><![CDATA[A blog demonstrating what Coding Armadillo can do.]]></description><link>https://coding-armadillo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 23 Feb 2020 06:15:13 GMT</lastBuildDate><item><title><![CDATA[I Have A Profile Picture!]]></title><description><![CDATA[After saying “Hello World” I struggled to make myself a pretty profile picture.
 Being no designer I tried to use an online tool to visualize…]]></description><link>https://coding-armadillo.github.io/i-have-a-profile-picture/</link><guid isPermaLink="false">https://coding-armadillo.github.io/i-have-a-profile-picture/</guid><pubDate>Wed, 09 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After saying “Hello World” I struggled to make myself a pretty profile picture.
 Being no designer I tried to use an &lt;a href=&quot;https://www.freelogodesign.org/&quot;&gt;online tool&lt;/a&gt; to visualize my idea.
 And it came out like the following. :(&lt;/p&gt;
@@ -8,7 +8,7 @@ And it came out like the following. :(&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bb8956a1d35f9d1c5a413f948d0fce6a/c7efe/Coding-Armadillo-concept.png&quot;
+    href=&quot;/static/bb8956a1d35f9d1c5a413f948d0fce6a/a48b3/Coding-Armadillo-concept.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -21,9 +21,9 @@ And it came out like the following. :(&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;concept&quot;
         title=&quot;concept&quot;
-        src=&quot;/static/bb8956a1d35f9d1c5a413f948d0fce6a/c7efe/Coding-Armadillo-concept.png&quot;
-        srcset=&quot;/static/bb8956a1d35f9d1c5a413f948d0fce6a/00d96/Coding-Armadillo-concept.png 148w,
-/static/bb8956a1d35f9d1c5a413f948d0fce6a/c7efe/Coding-Armadillo-concept.png 214w&quot;
+        src=&quot;/static/bb8956a1d35f9d1c5a413f948d0fce6a/a48b3/Coding-Armadillo-concept.png&quot;
+        srcset=&quot;/static/bb8956a1d35f9d1c5a413f948d0fce6a/12f09/Coding-Armadillo-concept.png 148w,
+/static/bb8956a1d35f9d1c5a413f948d0fce6a/a48b3/Coding-Armadillo-concept.png 214w&quot;
         sizes=&quot;(max-width: 214px) 100vw, 214px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -39,7 +39,7 @@ We started with a sketch.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f9a8bdfa96a6bc7b37c23aec551893db/7e3f6/Coding-Armadillo-sketch1-emcallahan-wm.jpg&quot;
+    href=&quot;/static/f9a8bdfa96a6bc7b37c23aec551893db/a2510/Coding-Armadillo-sketch1-emcallahan-wm.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -52,12 +52,12 @@ We started with a sketch.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;sketch1&quot;
         title=&quot;sketch1&quot;
-        src=&quot;/static/f9a8bdfa96a6bc7b37c23aec551893db/88218/Coding-Armadillo-sketch1-emcallahan-wm.jpg&quot;
-        srcset=&quot;/static/f9a8bdfa96a6bc7b37c23aec551893db/7237a/Coding-Armadillo-sketch1-emcallahan-wm.jpg 148w,
-/static/f9a8bdfa96a6bc7b37c23aec551893db/0cfdf/Coding-Armadillo-sketch1-emcallahan-wm.jpg 295w,
-/static/f9a8bdfa96a6bc7b37c23aec551893db/88218/Coding-Armadillo-sketch1-emcallahan-wm.jpg 590w,
-/static/f9a8bdfa96a6bc7b37c23aec551893db/77d57/Coding-Armadillo-sketch1-emcallahan-wm.jpg 885w,
-/static/f9a8bdfa96a6bc7b37c23aec551893db/7e3f6/Coding-Armadillo-sketch1-emcallahan-wm.jpg 1000w&quot;
+        src=&quot;/static/f9a8bdfa96a6bc7b37c23aec551893db/1c72d/Coding-Armadillo-sketch1-emcallahan-wm.jpg&quot;
+        srcset=&quot;/static/f9a8bdfa96a6bc7b37c23aec551893db/a80bd/Coding-Armadillo-sketch1-emcallahan-wm.jpg 148w,
+/static/f9a8bdfa96a6bc7b37c23aec551893db/1c91a/Coding-Armadillo-sketch1-emcallahan-wm.jpg 295w,
+/static/f9a8bdfa96a6bc7b37c23aec551893db/1c72d/Coding-Armadillo-sketch1-emcallahan-wm.jpg 590w,
+/static/f9a8bdfa96a6bc7b37c23aec551893db/a8a14/Coding-Armadillo-sketch1-emcallahan-wm.jpg 885w,
+/static/f9a8bdfa96a6bc7b37c23aec551893db/a2510/Coding-Armadillo-sketch1-emcallahan-wm.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -71,7 +71,7 @@ We started with a sketch.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5f330e7bd6dffcc495de730de283d85b/7e3f6/Coding-Armadillo-sketch2-emcallahan-wm.jpg&quot;
+    href=&quot;/static/5f330e7bd6dffcc495de730de283d85b/a2510/Coding-Armadillo-sketch2-emcallahan-wm.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -84,12 +84,12 @@ We started with a sketch.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;sketch2&quot;
         title=&quot;sketch2&quot;
-        src=&quot;/static/5f330e7bd6dffcc495de730de283d85b/88218/Coding-Armadillo-sketch2-emcallahan-wm.jpg&quot;
-        srcset=&quot;/static/5f330e7bd6dffcc495de730de283d85b/7237a/Coding-Armadillo-sketch2-emcallahan-wm.jpg 148w,
-/static/5f330e7bd6dffcc495de730de283d85b/0cfdf/Coding-Armadillo-sketch2-emcallahan-wm.jpg 295w,
-/static/5f330e7bd6dffcc495de730de283d85b/88218/Coding-Armadillo-sketch2-emcallahan-wm.jpg 590w,
-/static/5f330e7bd6dffcc495de730de283d85b/77d57/Coding-Armadillo-sketch2-emcallahan-wm.jpg 885w,
-/static/5f330e7bd6dffcc495de730de283d85b/7e3f6/Coding-Armadillo-sketch2-emcallahan-wm.jpg 1000w&quot;
+        src=&quot;/static/5f330e7bd6dffcc495de730de283d85b/1c72d/Coding-Armadillo-sketch2-emcallahan-wm.jpg&quot;
+        srcset=&quot;/static/5f330e7bd6dffcc495de730de283d85b/a80bd/Coding-Armadillo-sketch2-emcallahan-wm.jpg 148w,
+/static/5f330e7bd6dffcc495de730de283d85b/1c91a/Coding-Armadillo-sketch2-emcallahan-wm.jpg 295w,
+/static/5f330e7bd6dffcc495de730de283d85b/1c72d/Coding-Armadillo-sketch2-emcallahan-wm.jpg 590w,
+/static/5f330e7bd6dffcc495de730de283d85b/a8a14/Coding-Armadillo-sketch2-emcallahan-wm.jpg 885w,
+/static/5f330e7bd6dffcc495de730de283d85b/a2510/Coding-Armadillo-sketch2-emcallahan-wm.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -103,7 +103,7 @@ We started with a sketch.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/d839eee572fff12648e1bc6ae6df3783/7e3f6/Coding-Armadillo-color-rough-emcallahan--wm.jpg&quot;
+    href=&quot;/static/d839eee572fff12648e1bc6ae6df3783/a2510/Coding-Armadillo-color-rough-emcallahan--wm.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -116,12 +116,12 @@ We started with a sketch.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;color-rough&quot;
         title=&quot;color-rough&quot;
-        src=&quot;/static/d839eee572fff12648e1bc6ae6df3783/88218/Coding-Armadillo-color-rough-emcallahan--wm.jpg&quot;
-        srcset=&quot;/static/d839eee572fff12648e1bc6ae6df3783/7237a/Coding-Armadillo-color-rough-emcallahan--wm.jpg 148w,
-/static/d839eee572fff12648e1bc6ae6df3783/0cfdf/Coding-Armadillo-color-rough-emcallahan--wm.jpg 295w,
-/static/d839eee572fff12648e1bc6ae6df3783/88218/Coding-Armadillo-color-rough-emcallahan--wm.jpg 590w,
-/static/d839eee572fff12648e1bc6ae6df3783/77d57/Coding-Armadillo-color-rough-emcallahan--wm.jpg 885w,
-/static/d839eee572fff12648e1bc6ae6df3783/7e3f6/Coding-Armadillo-color-rough-emcallahan--wm.jpg 1000w&quot;
+        src=&quot;/static/d839eee572fff12648e1bc6ae6df3783/1c72d/Coding-Armadillo-color-rough-emcallahan--wm.jpg&quot;
+        srcset=&quot;/static/d839eee572fff12648e1bc6ae6df3783/a80bd/Coding-Armadillo-color-rough-emcallahan--wm.jpg 148w,
+/static/d839eee572fff12648e1bc6ae6df3783/1c91a/Coding-Armadillo-color-rough-emcallahan--wm.jpg 295w,
+/static/d839eee572fff12648e1bc6ae6df3783/1c72d/Coding-Armadillo-color-rough-emcallahan--wm.jpg 590w,
+/static/d839eee572fff12648e1bc6ae6df3783/a8a14/Coding-Armadillo-color-rough-emcallahan--wm.jpg 885w,
+/static/d839eee572fff12648e1bc6ae6df3783/a2510/Coding-Armadillo-color-rough-emcallahan--wm.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -135,7 +135,7 @@ We started with a sketch.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/07d30e5dd989f45cbe1a4060779eae93/7e3f6/Coding-Armadillo-final-emcallahan-wm.jpg&quot;
+    href=&quot;/static/07d30e5dd989f45cbe1a4060779eae93/a2510/Coding-Armadillo-final-emcallahan-wm.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -148,12 +148,12 @@ We started with a sketch.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;final&quot;
         title=&quot;final&quot;
-        src=&quot;/static/07d30e5dd989f45cbe1a4060779eae93/88218/Coding-Armadillo-final-emcallahan-wm.jpg&quot;
-        srcset=&quot;/static/07d30e5dd989f45cbe1a4060779eae93/7237a/Coding-Armadillo-final-emcallahan-wm.jpg 148w,
-/static/07d30e5dd989f45cbe1a4060779eae93/0cfdf/Coding-Armadillo-final-emcallahan-wm.jpg 295w,
-/static/07d30e5dd989f45cbe1a4060779eae93/88218/Coding-Armadillo-final-emcallahan-wm.jpg 590w,
-/static/07d30e5dd989f45cbe1a4060779eae93/77d57/Coding-Armadillo-final-emcallahan-wm.jpg 885w,
-/static/07d30e5dd989f45cbe1a4060779eae93/7e3f6/Coding-Armadillo-final-emcallahan-wm.jpg 1000w&quot;
+        src=&quot;/static/07d30e5dd989f45cbe1a4060779eae93/1c72d/Coding-Armadillo-final-emcallahan-wm.jpg&quot;
+        srcset=&quot;/static/07d30e5dd989f45cbe1a4060779eae93/a80bd/Coding-Armadillo-final-emcallahan-wm.jpg 148w,
+/static/07d30e5dd989f45cbe1a4060779eae93/1c91a/Coding-Armadillo-final-emcallahan-wm.jpg 295w,
+/static/07d30e5dd989f45cbe1a4060779eae93/1c72d/Coding-Armadillo-final-emcallahan-wm.jpg 590w,
+/static/07d30e5dd989f45cbe1a4060779eae93/a8a14/Coding-Armadillo-final-emcallahan-wm.jpg 885w,
+/static/07d30e5dd989f45cbe1a4060779eae93/a2510/Coding-Armadillo-final-emcallahan-wm.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
