@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Coding Armadillo's Blog]]></title><description><![CDATA[A blog demonstrating what Coding Armadillo can do.]]></description><link>https://coding-armadillo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 30 Apr 2020 05:35:05 GMT</lastBuildDate><item><title><![CDATA[I Have A Profile Picture!]]></title><description><![CDATA[After saying “Hello World” I struggled to make myself a pretty profile picture.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Coding Armadillo's Blog]]></title><description><![CDATA[A blog demonstrating what Coding Armadillo can do.]]></description><link>https://coding-armadillo.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 12 May 2020 06:45:21 GMT</lastBuildDate><item><title><![CDATA[I Have A Profile Picture!]]></title><description><![CDATA[After saying “Hello World” I struggled to make myself a pretty profile picture.
 Being no designer I tried to use an online tool to visualize…]]></description><link>https://coding-armadillo.github.io/i-have-a-profile-picture/</link><guid isPermaLink="false">https://coding-armadillo.github.io/i-have-a-profile-picture/</guid><pubDate>Wed, 09 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After saying “Hello World” I struggled to make myself a pretty profile picture.
 Being no designer I tried to use an &lt;a href=&quot;https://www.freelogodesign.org/&quot;&gt;online tool&lt;/a&gt; to visualize my idea.
 And it came out like the following. :(&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 214px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 214px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -35,7 +35,7 @@ We got in touch and she agreed to make me a profile picture.
 We started with a sketch.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -67,7 +67,7 @@ We started with a sketch.&lt;/p&gt;
 &lt;p&gt;We exchanged ideas and got a new sketch.
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -99,7 +99,7 @@ We started with a sketch.&lt;/p&gt;
 &lt;p&gt;Then lovely colors were added!&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -131,7 +131,7 @@ We started with a sketch.&lt;/p&gt;
 &lt;p&gt;Finally I have an awesome profile picture!&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
