@@ -1,6 +1,6 @@
 # coding-armadillo.github.io
 
-[![Build Status](https://travis-ci.org/coding-armadillo/coding-armadillo.github.io.svg?branch=develop)](https://travis-ci.org/coding-armadillo/coding-armadillo.github.io)
+![GitHub Pages Build and Deploy](https://github.com/coding-armadillo/coding-armadillo.github.io/workflows/GitHub%20Pages%20Build%20and%20Deploy/badge.svg?branch=develop)
 
 ## Get started
 
