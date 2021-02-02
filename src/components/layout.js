@@ -1,12 +1,15 @@
-import React from "react"
-import { Link } from "gatsby"
-
 import { rhythm, scale } from "../utils/typography"
+
+import { Link } from "gatsby"
+import React from "react"
+import { version } from "../../package.json"
 
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
+    const releaseLink =
+      "https://github.com/coding-armadillo/coding-armadillo.github.io/releases/tag/v"
     let header
 
     if (location.pathname === rootPath) {
@@ -66,6 +69,10 @@ class Layout extends React.Component {
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
+          {` `}, version:{" "}
+          <a href={`${releaseLink}${version}`} rel="noreferrer" target="_blank">
+            {version}
+          </a>
         </footer>
       </div>
     )
