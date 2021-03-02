@@ -8,7 +8,7 @@
     "url": "https://github.com/coding-armadillo/coding-armadillo.github.io/issues"
   },
   "dependencies": {
-    "gatsby": "^2.32.8",
+    "gatsby": "^2.32.9",
     "gatsby-image": "^2.11.0",
     "gatsby-plugin-feed": "^2.13.1",
     "gatsby-plugin-google-analytics": "^2.11.0",
