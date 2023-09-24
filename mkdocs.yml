@@ -1,0 +1,59 @@
+site_name: coding-armadillo.github.io
+site_author: Coding Armadillo
+
+theme:
+  name: material
+  favicon: https://raw.githubusercontent.com/coding-armadillo/coding-armadillo-logo/main/coding-armadillo-web.png
+  logo: https://raw.githubusercontent.com/coding-armadillo/coding-armadillo-logo/main/coding-armadillo-web.png
+  font:
+    text: Roboto
+  palette:
+    - scheme: default
+      primary: orange
+      accent: green
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: green
+      accent: orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  features:
+    - header.autohide
+    - navigation.top
+repo_name: coding-armadillo.github.io
+repo_url: https://github.com/coding-armadillo/coding-armadillo.github.io
+copyright: Copyright &copy; 2019 - 2023 Coding Armadillo
+nav:
+  - index.md
+plugins:
+  - search
+  - tags
+  - blog:
+      blog_dir: .
+      post_url_format: "{slug}"
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      type: timeago
+      enable_creation_date: true
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/coding-armadillo
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg

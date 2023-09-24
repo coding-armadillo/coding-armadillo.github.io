@@ -1,8 +1,11 @@
 ---
-title: Kattis, Kattis
-date: "2023-01-10"
-description: "I have been working on the Kattis Problem Archive"
+draft: false
+date: 2023-01-10
+categories:
+  - tutorial
 ---
+
+# Kattis, Kattis
 
 You can find some solutions from [https://coding-armadillo.github.io/kattis/](https://coding-armadillo.github.io/kattis/).
 

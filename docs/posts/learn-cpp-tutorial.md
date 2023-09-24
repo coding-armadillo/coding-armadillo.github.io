@@ -1,7 +1,9 @@
 ---
-title: Learn C++ with Coding Armadillo
-date: "2022-09-21"
-description: "I have created a C++ tutorial for absolute beginners"
+draft: false
+date: 2022-09-21
+categories:
+  - cpp
+  - tutorial
 ---
 
 You can find the tutorial from [https://coding-armadillo.github.io/learn-cpp/](https://coding-armadillo.github.io/learn-cpp/).
