@@ -3,8 +3,8 @@ site_author: Coding Armadillo
 
 theme:
   name: material
-  favicon: https://raw.githubusercontent.com/coding-armadillo/coding-armadillo-logo/main/coding-armadillo-web.png
-  logo: https://raw.githubusercontent.com/coding-armadillo/coding-armadillo-logo/main/coding-armadillo-web.png
+  favicon: https://raw.githubusercontent.com/coding-armadillo/logo/main/coding-armadillo-web.png
+  logo: https://raw.githubusercontent.com/coding-armadillo/logo/main/coding-armadillo-web.png
   font:
     text: Roboto
   palette:
@@ -38,7 +38,6 @@ plugins:
       minify_html: true
   - git-revision-date-localized:
       type: timeago
-      enable_creation_date: true
 extra:
   social:
     - icon: fontawesome/brands/github
