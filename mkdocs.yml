@@ -1,6 +1,5 @@
 site_name: coding-armadillo.github.io
 site_author: Coding Armadillo
-
 theme:
   name: material
   favicon: https://raw.githubusercontent.com/coding-armadillo/logo/main/coding-armadillo-web.png
@@ -31,7 +30,7 @@ theme:
     - navigation.top
 repo_name: coding-armadillo.github.io
 repo_url: https://github.com/coding-armadillo/coding-armadillo.github.io
-copyright: Copyright &copy; 2019 - 2023 Coding Armadillo
+copyright: Copyright &copy; 2019 - 2024 Coding Armadillo
 nav:
   - index.md
 plugins:
