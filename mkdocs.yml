@@ -30,7 +30,7 @@ theme:
     - navigation.top
 repo_name: coding-armadillo.github.io
 repo_url: https://github.com/coding-armadillo/coding-armadillo.github.io
-copyright: Copyright &copy; 2019 - 2024 Coding Armadillo
+copyright: Copyright &copy; 2019 - 2025 Coding Armadillo
 nav:
   - index.md
 plugins:
